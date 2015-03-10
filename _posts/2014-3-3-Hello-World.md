@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: Slime mold racetrack - Building a (big) Incubator
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Our goal is to create a slime mold racetrack, allowing different slime mold cultures to compete against each other on a race track and meet the finish line or capture the flag. Possibly we will broadcast the races and allow designs of racetracks to be sent to us by the community.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+We built a first fast prototype of the incubator to get our juices flowing. This has become a wide one to allow for enough area to put a race track on. We wanted to see if heating would be sufficient and what kind of other challenges we would encounter.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![Building Slime mold racetrack incubator]
+()
+
+![Building Slime mold racetrack incubator]
+()
+![Building Slime mold racetrack incubator]
+()
+![Building Slime mold racetrack incubator]
+()
