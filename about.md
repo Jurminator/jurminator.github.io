@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Jurjen Rolf
-https://nl.linkedin.com/in/jurjenrolf
+Jurjen Rolf <br>
+https://nl.linkedin.com/in/jurjenrolf <br>
 www.jurjenrolf.com
 
-Eiso Vaandrager
+Eiso Vaandrager <br>
 https://nl.linkedin.com/in/eavaandrager
